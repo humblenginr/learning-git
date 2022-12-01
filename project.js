@@ -1,2 +1,2 @@
-const dummy = 1
+const dummy = 2
 console.log(dummy)
